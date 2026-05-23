@@ -1,5 +1,5 @@
 // Roblox Version: version-2b1721d47abf49aa
-// Dumped at: 2026-05-23 23:13:49
+// Dumped at: 2026-05-24 00:44:07
 // Total FFlags: 13122
 // soulovery'all
 // Fuck Roblox
@@ -8098,7 +8098,7 @@ namespace FFlags {
     inline constexpr uintptr_t RBXASSERT_CLI155124_RolloutScale                                                 = 0x70C51A4; // 10000           (int)
     inline constexpr uintptr_t RBXAssert                                                                        = 0x7121988; // 1286            (int)
     inline constexpr uintptr_t RCC28699                                                                         = 0x7700B28; // 0               (int)
-    inline constexpr uintptr_t RCCChannelName                                                                   = 0x7113518; // "production"    (string)
+    inline constexpr uintptr_t RCCChannelName                                                                   = 0x7113518; // ""              (string)
     inline constexpr uintptr_t RCCDMChangeTrackingEnablePlaceFileElide                                          = 0x76D9BC8; // false           (bool)
     inline constexpr uintptr_t RCCJoinTransmissionStatsHundredthsPercentage                                     = 0x7512058; // 0               (int)
     inline constexpr uintptr_t RCCLoadInternalModuleInfo                                                        = 0x70C7908; // 774             (int)
@@ -8856,7 +8856,7 @@ namespace FFlags {
     inline constexpr uintptr_t RenderTextureDebugVisualization                                                  = 0x7521250; // 0               (int)
     inline constexpr uintptr_t RenderTextureLoadingBudgetMB                                                     = 0x70B8664; // 1024            (int)
     inline constexpr uintptr_t RenderTextureLoadingMaxCount                                                     = 0x70B8674; // 16384           (int)
-    inline constexpr uintptr_t RenderTextureLoadingMaxMB                                                        = 0x70B8670; // 668             (int)
+    inline constexpr uintptr_t RenderTextureLoadingMaxMB                                                        = 0x70B8670; // 669             (int)
     inline constexpr uintptr_t RenderTextureLoadingMinMB                                                        = 0x70B866C; // 16              (int)
     inline constexpr uintptr_t RenderTextureManagerBudget                                                       = 0x752196C; // 0               (int)
     inline constexpr uintptr_t RenderTextureManagerBudgetFor4k                                                  = 0x7521970; // 0               (int)
@@ -10675,7 +10675,7 @@ namespace FFlags {
     inline constexpr uintptr_t StudioMeshStreamingGreyOutRenderFidelity                                         = 0x76ED4B8; // true            (bool)
     inline constexpr uintptr_t StudioObjectExportPassHiToGenerator                                              = 0x7576A50; // false           (bool)
     inline constexpr uintptr_t StudioObjectExportTelemetry                                                      = 0x7576A28; // true            (bool)
-    inline constexpr uintptr_t StudioOpenWithStreaming                                                          = 0x7A59EB8; // true            (bool)
+    inline constexpr uintptr_t StudioOpenWithStreaming                                                          = 0x7A59EB8; // false           (bool)
     inline constexpr uintptr_t StudioOpenWithStreamingForceIrad                                                 = 0x7517880; // true            (bool)
     inline constexpr uintptr_t StudioOpenWithStreamingRegionRadius                                              = 0x70B720C; // 65536           (int)
     inline constexpr uintptr_t StudioPackages                                                                   = 0x70D1608; // 768             (int)
