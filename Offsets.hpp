@@ -1,5 +1,5 @@
 // Roblox Version: version-ad5d3e2906444472
-// Dumped at: 2026-06-06 15:54:12
+// Dumped at: 2026-06-06 19:28:28
 // Total FFlags: 13390
 // soulovery'all
 // Fuck Roblox
@@ -11161,7 +11161,7 @@ namespace FFlags {
     inline constexpr uintptr_t FIntRenderTextureDebugVisualization                                                                          = 0x792DB48; // 0               (int)
     inline constexpr uintptr_t FIntRenderTextureLoadingBudgetMB                                                                             = 0x74DBDE4; // 1024            (int)
     inline constexpr uintptr_t FIntRenderTextureLoadingMaxCount                                                                             = 0x74DBDF4; // 16384           (int)
-    inline constexpr uintptr_t FIntRenderTextureLoadingMaxMB                                                                                = 0x74DBDF0; // 669             (int)
+    inline constexpr uintptr_t FIntRenderTextureLoadingMaxMB                                                                                = 0x74DBDF0; // 671             (int)
     inline constexpr uintptr_t FIntRenderTextureLoadingMinMB                                                                                = 0x74DBDEC; // 16              (int)
     inline constexpr uintptr_t FIntRenderTextureManagerBudget                                                                               = 0x795CD48; // 0               (int)
     inline constexpr uintptr_t FIntRenderTextureManagerBudgetFor4k                                                                          = 0x795CD4C; // 0               (int)
@@ -13389,7 +13389,7 @@ namespace FFlags {
     inline constexpr uintptr_t SFFlagDebugAdaptivePVCompressor                                                                              = 0x79248E0; // false           (bool)
     inline constexpr uintptr_t SFFlagIASUIModifier                                                                                          = 0x79BB821; // true            (bool)
     inline constexpr uintptr_t SFFlagIAS_InstancePointersHoldAcrossReplication3                                                             = 0x79BB820; // true            (bool)
-    inline constexpr uintptr_t SFFlagStudioOpenWithStreaming                                                                                = 0x7E76070; // false           (bool)
+    inline constexpr uintptr_t SFFlagStudioOpenWithStreaming                                                                                = 0x7E76070; // true            (bool)
     inline constexpr uintptr_t SFFlagUserPlayerScriptsCCLIntegrationA                                                                       = 0x7AC6804; // false           (bool)
     inline constexpr uintptr_t SFFlagUserPlayerScriptsCCLIntegrationB                                                                       = 0x7AC6805; // false           (bool)
     inline constexpr uintptr_t SFFlagUserPlayerScriptsCCLIntegrationC                                                                       = 0x7AC6806; // false           (bool)
@@ -13403,5 +13403,5 @@ namespace FFlags {
     inline constexpr uintptr_t SFFlagUserPlayerScriptsRefactor3                                                                             = 0x7AC6803; // false           (bool)
     inline constexpr uintptr_t SFFlagUserPlayerScriptsTapToMoveUsesIAS2                                                                     = 0x7AC67FD; // true            (bool)
     inline constexpr uintptr_t SFStringCLI198718Ver                                                                                         = 0x753AE38; // "1"             (string)
-    inline constexpr uintptr_t SFStringRCCChannelName                                                                                       = 0x7531498; // ""              (string)
+    inline constexpr uintptr_t SFStringRCCChannelName                                                                                       = 0x7531498; // "production"    (string)
 }
